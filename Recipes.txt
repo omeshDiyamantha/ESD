@@ -1,11 +1,16 @@
 hello world
 this is my first repository
+
 C
 java 
 C++
 
-
+Python
+Ruby
 
 thank you
+
+
+done my changes
 
 final copy
